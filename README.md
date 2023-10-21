@@ -6,14 +6,14 @@
 
 -------
 
-<img align="right"  alt="Coding" height="150" width="250" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right"  alt="Coding" height="180" width="320" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 <!---use this for the marquee effect--->
 <!---https://readme-typing-svg.demolab.com/demo/--->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;My+name+is+Raghuveer.;I+am+a+full+stack+developer.;Check+out+my+Github!;👍🏻;&font=Fira%20Code&size=14&center=true&width=500&height=200&duration=3000&pause=100&color=07BB1A" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;My+name+is+Raghuveer+and..;I+am+a+full+stack+developer.;Check+out+my+Github!;👍🏻;&font=Fira%20Code&size=16&center=true&width=300&height=200&duration=3000&pause=100&color=07BB1A" alt="Example Usage - README Typing SVG">
 </p>
 
 -------
