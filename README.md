@@ -6,9 +6,8 @@
 
 -------
 
-<img align="right"  alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right"  alt="Coding" height="150" width="250" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<br/> 
 
 <!---use this for the marquee effect--->
 <!---https://readme-typing-svg.demolab.com/demo/--->
