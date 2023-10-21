@@ -54,7 +54,6 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4ghuveer&show_icons=true&locale=en&layout=compact&theme=material-palenight" height="180px" alt="r4ghuveer" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r4ghuveer&show_icons=true&locale=en&theme=material-palenight" alt="r4ghuveer" height="180px" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r4ghuveer&theme=material-palenight" alt="r4ghuveer" height="200px"  /></p>
-  <img height="180" width="280" src="https://user-images.githubusercontent.com/101916585/258610667-9a09712c-92db-4cb2-8935-c4b878a378a1.png" style="display: inline;" > </img>
   <a href="https://github.com/r4ghuveer/Tracy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=r4ghuveer&repo=Tracy&theme=material-palenight" height="170px" width = "507px" style="display : inline;"/></a>&nbsp;
 </p>
 
