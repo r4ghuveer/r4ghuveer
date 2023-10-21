@@ -14,7 +14,7 @@
 <!---https://readme-typing-svg.demolab.com/demo/--->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;My+name+is+Raghuveer.;I+am+a+full+stack+developer.;Check+out+my+Github!;👍🏻;&font=Fira%20Code&center=true&width=500&height=200&duration=3000&pause=100&color=07BB1A" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;My+name+is+Raghuveer.;I+am+a+full+stack+developer.;Check+out+my+Github!;👍🏻;&font=Fira%20Code&size=14&center=true&width=500&height=200&duration=3000&pause=100&color=07BB1A" alt="Example Usage - README Typing SVG">
 </p>
 
 -------
