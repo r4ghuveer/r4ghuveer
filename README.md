@@ -1,6 +1,8 @@
-<h1 align="center">Hi 😊, I'm Raghuveer Khim Singh Bora</h1>
-<h3 align="center">Iam a final year student at VIT Bhopal University, Iam a quick learner and always look forward to learn new skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/uK2zN5aP3jwAAAAd/itachi-cool.gif">
+<img align="right"  alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<h1 align="center" style="background-color:powderblue;">Hi 😊, I'm Raghuveer Khim Singh Bora</h1>
+
+<h3 align="center">Iam a final year student at VIT Bhopal University, Iam a quick learner and always look forward to learn new skills.</h3> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4ghuveer&label=Profile%20views&color=0e75b6&style=flat" alt="r4ghuveer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4ghuveer" alt="r4ghuveer" /></a> </p>
