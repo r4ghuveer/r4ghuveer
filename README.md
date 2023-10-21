@@ -1,15 +1,26 @@
-<img align="right"  alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-<h1 align="center" style="background-color:powderblue;">Hi 😊, I'm Raghuveer Khim Singh Bora</h1>
-<p align='center'>
+
+<h3 align="left">Iam Raghuveer Khim Singh Bora, a final year student at VIT Bhopal University, Iam a quick learner and always look forward to learn new skills.</h3> 
+<p align='left'>
   <a href='mailto:raghuveerofficial08@gmail.com'><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<h3 align="center">Iam a final year student at VIT Bhopal University, Iam a quick learner and always look forward to learn new skills.</h3> 
+-------
+
+<img align="right"  alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+<br/> 
+
+<!---use this for the marquee effect--->
+<!---https://readme-typing-svg.demolab.com/demo/--->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;My+name+is+Raghuveer.;I+am+a+full+stack+developer.;Check+out+my+Github!;👍🏻;&font=Fira%20Code&center=true&width=500&height=200&duration=3000&pause=100&color=07BB1A" alt="Example Usage - README Typing SVG">
+</p>
+
+-------
 
 
-<br />
-
-### Programming Languages & Tools
+### Programming Languages & Tools:
 
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/py-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cpp-logo.png" />
@@ -32,14 +43,13 @@
 <br />
 <br />
 
+### Visitor Counter:
 <p align="left" > 
-  Visitor Counter <br/>
   <img src="https://profile-counter.glitch.me/r4ghuveer/count.svg" />
 </p>
 
 
 <br />
-
 
 <p align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4ghuveer&show_icons=true&locale=en&layout=compact&theme=material-palenight" height="180px" alt="r4ghuveer" /></p>
